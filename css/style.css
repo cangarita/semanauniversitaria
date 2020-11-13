@@ -454,7 +454,7 @@ img {
 @media (max-width: 570px) {
     main { width: 320px }
      .c-pin-pulse:nth-child(1) {
-        left: 30rem;
+        left: 10rem;
         top: 10rem;
     } 
     .c-pin-pulse:nth-child(2) {
