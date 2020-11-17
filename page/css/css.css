@@ -30,3 +30,13 @@ vertical-align: middle;
 color: black;
 }
 
+
+
+.imgLateral {
+    text-align: center
+}
+
+.imgLateral__img {
+    margin-top:2%; 
+    width: 90%;
+}
