@@ -75,11 +75,11 @@ background-image: url('../img/Hablando.png');
 background-size: 100%;
 }
 .tiktok:after{
-background-image: url('../img/Baile.png');
+background-image: url('../img/tiktok.png');
 background-size: 100%;
 }
 .foto:after{
-background-image: url('../img/tiktok.png');
+background-image: url('../img/Foto.png');
 background-size: 100%;
 }
 .taller:after{
